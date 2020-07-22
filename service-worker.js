@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Loomian-Search/precache-manifest.d4c3140d886aee3f72fe4d55d4738c97.js"
+  "/Loomian-Search/precache-manifest.2925a665b7948e1176b330061f724e4b.js"
 );
 
 self.addEventListener('message', (event) => {
